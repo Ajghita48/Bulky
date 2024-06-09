@@ -4,6 +4,7 @@ using System.Diagnostics;
 
 namespace BulkyWeb.Controllers
 {
+    // this is a comment
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
